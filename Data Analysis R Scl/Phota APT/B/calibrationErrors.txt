@@ -1,0 +1,2 @@
+Median Standard Deviation of any one star: 0.09072941600928354
+Standard Error/Uncertainty in Calibration: 0.05238265275637739
